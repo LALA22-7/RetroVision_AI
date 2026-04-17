@@ -1,0 +1,25 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Model weights and large media assets
+yolov8s.pt
+*.pt
+*.pth
+*.onnx
+
+# Input/output media
+output/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/*.code-workspace
