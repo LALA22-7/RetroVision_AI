@@ -70,6 +70,4 @@ With funding and deployment via the NHAI Innovation Hackathon, Phase 2 is design
 * **GPS/GIS Integration:** Link embedded dashcam coordinates with tracker outputs to auto-flag precise latitude/longitude of degraded signs for NHAI maintenance dashboards.
 * **Edge Deployment:** Compile and optimize the pipeline for real-time inference on low-cost edge hardware (for example, Jetson Nano) mounted in existing NHAI patrol vehicles.
 
-Built with precision for the NHAI Innovation Hackathon.
-
-***This README establishes immediate authority. It clearly outlines the problem, technically explains how your specific math solves it, provides easy instructions, and finishes with a highly professional roadmap for the future. Put this on your GitHub, and let's lock in this victory.***
+***Built with precision for the NHAI Innovation Hackathon.***
